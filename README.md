@@ -7,9 +7,9 @@ I care deeply about technical clarity, environmental impact, and making long-liv
 ## 💻 What I've Worked On
 
 - 🌱 **Sustainability-focused SaaS** at [Optera](https://opteraclimate.com) – built UI features and CI/CD pipelines to help enterprises track and reduce their emissions.
-- 🐾 **Regulatory tech** at GlobalVetLINK – implemented mission-critical veterinary health software with consistent delivery and tight uptime targets.
-- 🎛️ **AV/VR Systems** at Mechdyne – delivered virtual reality and telepresence projects for academic and enterprise clients worldwide.
-- 🧑‍🔧 **IT Support & Infrastructure** at Iowa State University – managed lab systems and helped migrate educational resources to digital platforms.
+- 🐾 **Regulatory tech** at [GlobalVetLINK](https://www.globalvetlink.com) – implemented mission-critical veterinary health software with consistent delivery and tight uptime targets.
+- 🎛️ **AV/VR Systems** at [Mechdyne](https://www.mechdyne.com) – delivered virtual reality and telepresence projects for academic and enterprise clients worldwide.
+- 🧑‍🔧 **IT Support & Infrastructure** at [Iowa State University](https://www.agron.iastate.edu/) – managed lab systems and helped migrate educational resources to digital platforms.
 
 ## 🧠 Skills & Tools
 
