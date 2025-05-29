@@ -42,4 +42,4 @@ OS: `Windows`, `Linux`, `macOS`
 
 📄 [View my résumé (public)](https://github.com/zcoffin86/resume/blob/main/README.md)  
 📫 _Want to collaborate or chat?_ [LinkedIn](https://www.linkedin.com/in/zcoffin86) or open an issue/discussion on one of my GitHub repos  
-😄 Pronouns: he/him  
+😄 Pronouns: gender is a social construct /shrug
