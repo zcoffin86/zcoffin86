@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zach
 
-I'm a full-stack software engineer with 10+ years of experience building resilient, user-centered systems — from ESG SaaS platforms to regulatory software to AV/VR control systems.
+I'm a full-stack software engineer with 10+ years of experience building resilient, user-centered systems — from ESG SaaS platforms to regulatory compliance software to AV/VR control systems.
 
 I care deeply about **technical clarity**, **environmental impact**, and making **long-lived systems** that don't just *work*, but work *well*. I'm especially drawn to projects in **climate tech** or **public infrastructure** — where engineering can serve both people and planet.
 
